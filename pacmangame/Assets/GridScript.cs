@@ -30,7 +30,7 @@ public class GridScript : MonoBehaviour {
 				Instantiate(cell, new Vector3(x, y, 0), Quaternion.identity);
 				if(wallGrid[x,y] == 1) {
 					Instantiate(wall, new Vector3(x, y, -1), Quaternion.identity);	
-				} else {
+				} else if(wallGrid[x,y] == 0){
 					Instantiate(pellet, new Vector3(x, y, -1), Quaternion.identity);	
 				}
 			}
