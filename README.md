@@ -7,8 +7,5 @@
 **Alvin Wong**
 - [http://github.com/piplup15] (https://github.com/piplup15)
 
-**Vincent Chan**
-- [http://github.com/vinchan] (https://github.com/vinchan)
-
 **Joshua Mak**
 - [http://github.com/jmakhack] (https://github.com/jmakhack)
